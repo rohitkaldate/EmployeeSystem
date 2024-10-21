@@ -1,0 +1,1 @@
+To manage all the employee’s payroll, Henna Solutions, a software company, will develop employee management software. The company created web pages for the project that allow users to interact with the various input and output interfaces. The company must implement data validation for the data entered by the admin on the web pages.
